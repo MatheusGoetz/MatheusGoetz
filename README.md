@@ -49,7 +49,7 @@ API REST para gerenciamento financeiro desenvolvida com .NET.
 ✔ Validações e Exception Filters  
 ✔ Boas práticas de API
 
-🔗 https://github.com/MatheusGoetz/Cash-Flow
+🔗 https://github.com/MatheusGoetz/Cash-Flow](https://github.com/MatheusGoetz/CashFlow
 
 ---
 
