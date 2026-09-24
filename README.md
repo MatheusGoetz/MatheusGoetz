@@ -83,7 +83,7 @@ Aplicação Fullstack desenvolvida para estudo e prática de **Java, Spring Boot
 ✔ Organização por camadas
 ✔ Git e GitHub
 
-🔗 https://github.com/MatheusGoetz
+🔗 https://github.com/MatheusGoetz/TaskFlow
 
 ---
 
