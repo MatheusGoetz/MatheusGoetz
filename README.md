@@ -1,71 +1,127 @@
 # 👋 Olá, eu sou o Matheus Goetz
 
-💻 Desenvolvedor **Fullstack** apaixonado por construir soluções completas — do backend robusto à interface moderna.  
-🚀 Focado em desenvolvimento com **.NET, APIs REST, React e arquitetura escalável**.  
-🎯 Em transição para atuar profissionalmente como **Desenvolvedor Fullstack Júnior**.
+💻 Desenvolvedor **Fullstack em início de carreira**, apaixonado por tecnologia e por transformar ideias em soluções reais.
+🚀 Atualmente focado em desenvolvimento com **Java, Spring Boot, .NET, APIs REST, React e Angular**.
+🎯 Em transição profissional para atuar como **Desenvolvedor Fullstack Júnior**.
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado na criação de aplicações reais, aplicando boas práticas de engenharia de software, arquitetura em camadas e desenvolvimento orientado a APIs.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em constante evolução, com experiência prática em suporte técnico, bancos de dados e desenvolvimento de aplicações.
 
-Gosto de transformar ideias em produtos funcionais, sempre buscando código limpo, organização e evolução contínua.
+Tenho interesse especial em **backend, APIs REST, arquitetura de software e desenvolvimento Fullstack**, buscando aplicar boas práticas de engenharia de software, código limpo e organização de projetos.
+
+Atualmente estou aprofundando meus conhecimentos em **Java + Spring Boot**, enquanto continuo desenvolvendo projetos com **.NET, React e Angular**.
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
-### 🔙 Backend
-- C#
-- .NET / ASP.NET Core
-- Web APIs REST
-- Entity Framework
-- SQL Server
-- Arquitetura em Camadas
+### ☕ Backend
+
+* Java
+* Spring Boot
+* Spring Web
+* APIs REST
+* Maven
+* C#
+* .NET / ASP.NET Core
+* Entity Framework
+* SQL
+* PostgreSQL
+* SQL Server
+* Firebird
+* Arquitetura em Camadas
 
 ### 🎨 Frontend
-- React.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5 & CSS3
 
-### 🛠️ Ferramentas
-- Git & GitHub
-- Visual Studio / VS Code
-- Postman / Swagger
-- Docker (em aprendizado)
+* Angular
+* React.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* HTML5 & CSS3
+
+### 🛠️ Ferramentas & DevOps
+
+* Git & GitHub
+* Visual Studio / VS Code
+* IntelliJ IDEA
+* Postman
+* Swagger / OpenAPI
+* Docker
+* Maven
+* GitHub Actions
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### 💰 CashFlow API
-API REST para gerenciamento financeiro desenvolvida com .NET.
 
-✔ CRUD completo  
-✔ Arquitetura em camadas  
-✔ Validações e Exception Filters  
-✔ Boas práticas de API
+API REST para gerenciamento financeiro desenvolvida com **.NET**.
 
-🔗https://github.com/MatheusGoetz/CashFlow
+✔ CRUD completo
+✔ Arquitetura em camadas
+✔ Validações
+✔ Exception Filters
+✔ Boas práticas de desenvolvimento de APIs
+
+🔗 https://github.com/MatheusGoetz/CashFlow
+
 ---
 
-## 📈 Atualmente estudando
-- Arquitetura limpa (Clean Architecture)
-- Boas práticas de APIs escaláveis
-- Performance em aplicações web
-- Docker & Deploy
+### 📋 TaskFlow
+
+Aplicação Fullstack desenvolvida para estudo e prática de **Java, Spring Boot e Angular**.
+
+✔ Backend com Java + Spring Boot
+✔ API REST
+✔ Frontend com Angular
+✔ Integração entre frontend e backend
+✔ Organização por camadas
+✔ Git e GitHub
+
+🔗 https://github.com/MatheusGoetz
+
+---
+
+## 📚 Atualmente estudando
+
+* Java e Spring Boot
+* Spring Data JPA
+* Spring Security
+* Arquitetura de aplicações
+* Clean Architecture
+* Desenvolvimento de APIs REST
+* Angular
+* Docker
+* Testes automatizados
+* PostgreSQL
+* Boas práticas e padrões de projeto
+
+---
+
+## 💡 Áreas de interesse
+
+* Desenvolvimento Backend
+* Desenvolvimento Fullstack
+* APIs REST
+* Java + Spring Boot
+* .NET
+* Arquitetura de Software
+* Bancos de Dados
+* Cloud & DevOps
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/matheus-goetz-oyarzabal-9b325421a/
-- 📧 Email: goetz.dev@gmail.com
-- 🌐 GitHub: https://github.com/MatheusGoetz
+* 💼 LinkedIn: https://www.linkedin.com/in/matheus-goetz-oyarzabal-9b325421a/
+* 📧 Email: [goetz.dev@gmail.com](mailto:goetz.dev@gmail.com)
+* 🌐 GitHub: https://github.com/MatheusGoetz
 
 ---
 
-⭐ Sempre aberto a aprender, colaborar e construir projetos incríveis.
+⭐ Sempre buscando aprender, construir projetos reais e evoluir como desenvolvedor.
