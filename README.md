@@ -58,20 +58,6 @@ Atualmente estou aprofundando meus conhecimentos em **Java + Spring Boot**, enqu
 
 ## 🚀 Projetos em Destaque
 
-### 💰 CashFlow API
-
-API REST para gerenciamento financeiro desenvolvida com **.NET**.
-
-✔ CRUD completo
-✔ Arquitetura em camadas
-✔ Validações
-✔ Exception Filters
-✔ Boas práticas de desenvolvimento de APIs
-
-🔗 https://github.com/MatheusGoetz/CashFlow
-
----
-
 ### 📋 TaskFlow
 
 Aplicação Fullstack desenvolvida para estudo e prática de **Java, Spring Boot e Angular**.
